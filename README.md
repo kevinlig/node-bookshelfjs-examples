@@ -11,7 +11,7 @@ In this example, I used a MySQL database with the following schema:
 
 ![Database schema](dbschema.png)
 
-It's your classic [Twitter clone](ruby.railstutorial.org/ruby-on-rails-tutorial-book), stripped down quite a bit.
+It's your classic [Twitter clone](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book), stripped down quite a bit.
 
 We're not going to do a UI or validation. In fact, this example will only implement about half a REST API.
 
