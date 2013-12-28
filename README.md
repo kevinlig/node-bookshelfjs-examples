@@ -21,4 +21,4 @@ An additional twist is the fact that both sides of the relationship are User mod
 
 **For clarity:** In the Followers table, `follower` is the user ID of the user initiating the action while `followee` is the user ID of the person being acted upon. So when Alice follows Bob, Alice's ID is the `follower` and Bob's ID is the `followee`.
 
-Okay - go look in the `src/app.js` folder and read the comments.
+Okay - go look in `src/app.js` and read the comments.
