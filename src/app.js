@@ -73,6 +73,11 @@ var tweet = require('./routes/tweet');
  * Let's go over to the Tweet model in /app/models/tweet first.
  */
 
+ /*
+  * Once you've finished checking out all the models, look at /app/collections
+  * then /routes
+  */
+
 app.get('/', routes.index);
 app.get('/users', user.list);
 app.get('/tweets', tweet.list);
